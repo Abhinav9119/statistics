@@ -1,0 +1,24 @@
+data cleaning
+handling nulls
+time series problems
+identify outliers iqr and z square method
+one of the statistical test
+corelation covariation 
+
+
+placement:
+practice,
+labs
+given problem solve in execution steps
+syntaxes
+conseptiual differences
+steps in taining models
+using graph identify patterns -situational problems measure success and failure moder acurate or not
+revise all topics
+
+analusis the bucket of every job profile and company 
+prepare for all kind of profile
+
+seperate preparation of theory(ccpp), lab ,and interview dont mixe it
+
+dont focus on negative
